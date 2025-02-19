@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* styling document */
+.Name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: bold;
+    color: blueviolet;
+}
+.Intro{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.75em;
+   
+}
+.nav-bar-col{
+    background-color: lightblue !important;
+}
+.footer-mm {
+    margin-top: auto; /* Push the footer to the bottom */
+    text-align: center;
+    background-color: #f1f1f1; /* Optional background color */
+    font-size: 0.9em; /* Adjust font size */
+    color: #333; /* Adjust text color */
+    padding: 10px 20px;
+}
+.Intro {
+    text-align: justify; /* Aligns text on both left and right edges */
+    line-height: 1.6;    /* Improves readability by adding spacing between lines */
+    margin: 10px 0;      /* Optional: Adds vertical spacing around the paragraph */
+}
